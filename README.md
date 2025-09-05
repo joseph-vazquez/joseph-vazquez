@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, I'm Joseph Vazquez
+I am studying at CSULA for my computer science bachelor degree
+
 
 <!--
 **joseph-vazquez/joseph-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
