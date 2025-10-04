@@ -17,10 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseph-vazquez&label=Visitors&color=blue&style=flat-square" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -41,14 +37,13 @@ Hello! My name is **Joseph Vazquez**, and I'm currently pursuing a **Bachelor's 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
 </p>
 
 ---
@@ -65,7 +60,6 @@ Hello! My name is **Joseph Vazquez**, and I'm currently pursuing a **Bachelor's 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseph-vazquez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vazquez&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
@@ -73,27 +67,11 @@ Hello! My name is **Joseph Vazquez**, and I'm currently pursuing a **Bachelor's 
 
 ## 🌟 Featured Projects  
 
-- [**Portfolio Website**](https://jvazquezportfolio.com) – TypeScript, Next.js, React, Firebase  
-- [**ACM Admin Login Page**](#) – React, Firebase Authentication, Bootstrap  
-- [**Personal Schedule Tracker**](#) – Java, JavaFX  
-- [**Text-Based Fishing Game**](#) – Java  
+- [**Portfolio Website**](https://jvazquezportfolio.com) – TypeScript, Next.js, React, Firebase
+  
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to connect with me on [LinkedIn](https://linkedin.com/in/joseph-vazquez-).*  
+✨ *Thanks for visiting my profile! Feel free to connect with me on [LinkedIn](https://linkedin.com/in/joseph-vazquez-).*  ✨
 
 
-<!--
-**joseph-vazquez/joseph-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
